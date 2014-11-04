@@ -2,8 +2,8 @@
 #include "ui_mainwindow.h"
 #include "apptimer.h"
 
-#define DEFAULT_GAME_ARENA_WIDTH 600
-#define DEFAULT_GAME_ARENA_HEIGHT 400
+#define DEFAULT_GAME_ARENA_WIDTH 800
+#define DEFAULT_GAME_ARENA_HEIGHT 600
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
