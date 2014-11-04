@@ -1,3 +1,9 @@
+/*
+** Copyright (c) 2014 Jarmo Hautakoski
+**
+** ArcanoidUbuntu project
+**  */
+
 #ifndef BALL_H
 #define BALL_H
 

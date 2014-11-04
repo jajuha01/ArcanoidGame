@@ -1,3 +1,9 @@
+/*
+** Copyright (c) 2014 Jarmo Hautakoski
+**
+** ArcanoidUbuntu project
+**  */
+
 #include "player.h"
 
 #define PLAYER_BRICK_SPEED_INCREASE_LIMIT 2

@@ -1,3 +1,9 @@
+/*
+** Copyright (c) 2014 Jarmo Hautakoski
+**
+** ArcanoidUbuntu project
+**  */
+
 #ifndef APPCONTROLL_H
 #define APPCONTROLL_H
 

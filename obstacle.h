@@ -1,3 +1,9 @@
+/*
+** Copyright (c) 2014 Jarmo Hautakoski
+**
+** ArcanoidUbuntu project
+**  */
+
 #ifndef OBSTACLE_H
 #define OBSTACLE_H
 
